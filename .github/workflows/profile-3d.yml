@@ -1,8 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # Atualiza automaticamente todos os dias às 15h (horário de Brasília)
-    - cron: "0 18 * * *"
+  schedule: # Atualiza automaticamente todos os dias às 17h (horário de Brasília)
+    - cron: "0 20 * * *"
   workflow_dispatch:
 
 jobs:
